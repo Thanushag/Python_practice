@@ -1,0 +1,6 @@
+ID,TeamOwner,Criticality
+1001,Frontend,Low
+1002,Payments,High
+1003,Security,High
+1004,SearchCore,Medium
+1005,Marketing,Low
